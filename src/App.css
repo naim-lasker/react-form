@@ -1,0 +1,43 @@
+.common-input {
+  /* display: inline-block;
+  width: auto; */
+}
+
+.country {
+  min-width: 200px;
+}
+
+.ml-30 {
+  margin-left: 30px!important;
+}
+.ml-100 {
+  margin-left: 100px!important;
+}
+.pl-0 {
+  padding-left: 0px!important;
+}
+
+.d-inline-block {
+  display: inline-block!important;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+/* .progtrckr {
+  display: none;
+} */
+
+.footer-buttons {
+  margin-top: 50px;
+}
+.footer-buttons .btn-next {
+  margin-left: 300px;
+}
+.green {
+  color: rgb(1, 124, 1);
+}
+.upload-icon {
+  font-size: 32px;
+  cursor: pointer;
+}
